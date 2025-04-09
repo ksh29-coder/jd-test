@@ -1,0 +1,6 @@
+com/mvcalc/calculator/EquityMarketValueCalculatorTest.class
+com/mvcalc/calculator/BondMarketValueCalculatorTest.class
+com/mvcalc/calculator/FXForwardMarketValueCalculatorTest.class
+com/mvcalc/calculator/MarketValueCalculatorFactoryTest$1.class
+com/mvcalc/calculator/FutureMarketValueCalculatorTest.class
+com/mvcalc/calculator/MarketValueCalculatorFactoryTest.class

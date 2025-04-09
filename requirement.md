@@ -1,0 +1,2 @@
+create a basic java libary project and in this project. The project is called 'mv-calc'. The project is to implement a calculator that can perform marker value cacluation based on different types of financial instruments. For example, for equity, mv = price * quantity. For bond, mv = price * par_value + accrued interest. for future, mv = price * contract_size. for fx forward, mv = interpolated  fx forward rate * quantity.  
+
